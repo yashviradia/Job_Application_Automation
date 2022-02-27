@@ -26,7 +26,7 @@ Automating the job application in LinkedIn
 ### What I learned
 - Selecting HTML elements using Selenium Webdriver
 
-###Continued Development
+### Continued Development
 - Only the page of job application be opened, after that users have to make an input
 - Developing it further to apply for jobs automatically without any user input
 
